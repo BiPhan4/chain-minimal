@@ -1,3 +1,11 @@
+This is a clone and extension of minid, which was developed by the cosmos registry and can be found here: 
+
+https://github.com/cosmosregistry/chain-minimal
+
+This repo serves as a dev sandbox for the jackal protocol.
+
+We thank the chain registry team for creating minid <3 
+
 # Mini - A minimal Cosmos SDK chain
 
 This repository contains an example of a tiny, but working Cosmos SDK chain.
