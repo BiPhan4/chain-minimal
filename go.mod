@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.21.0
 
 replace (
-	// Use local copy of cosmos-sdk 
+	// Use local copy of cosmos-sdk
 	github.com/cosmos/cosmos-sdk => /Users/biphan/jackal/cosmos-sdk-0.50.1-extended
 	// Fix upstream GHSA-h395-qcrw-5vmq vulnerability.
 	// TODO Remove it: https://github.com/cosmos/cosmos-sdk/issues/10409
@@ -23,7 +23,7 @@ require (
 	cosmossdk.io/errors v1.0.0
 	cosmossdk.io/log v1.2.1
 	cosmossdk.io/math v1.2.0
-	cosmossdk.io/store v1.0.0
+	cosmossdk.io/store v1.0.2
 	cosmossdk.io/tools/confix v0.1.0
 	github.com/cometbft/cometbft v0.38.2
 	github.com/cosmos/cosmos-db v1.0.0
